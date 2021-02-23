@@ -1,0 +1,23 @@
+{
+  "name": "react-flow-node-issue-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andys8/react-flow-node-issue-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andys8/react-flow-node-issue-example/issues"
+  },
+  "homepage": "https://github.com/andys8/react-flow-node-issue-example#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-flow-renderer": "^9.0.2"
+  }
+}
