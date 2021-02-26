@@ -1,5 +1,11 @@
 # react-flow node issue
 
+## Update: Issue Fixed
+
+The issue was solved in `v9.0.3`.
+
+<https://github.com/wbkd/react-flow/issues/934#issuecomment-785916788`>
+
 ## Steps
 
 - `npm install`
@@ -16,7 +22,7 @@ and see `package.json`
 
 ## Issue
 
-```
+```shell
 npm test | pbcopy
 internal/modules/cjs/loader.js:1092
       throw new ERR_REQUIRE_ESM(filename, parentPath, packageJsonPath);
